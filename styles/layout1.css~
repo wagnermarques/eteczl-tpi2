@@ -1,0 +1,38 @@
+
+*, *:before, *:after {
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+       box-sizing: border-box;
+}
+
+#main {
+    width : 90%;
+    margin : 0 auto;
+}
+
+#left {
+    float : left;
+    width : 20%;
+}
+
+#content {
+    background-color: blue;
+    margin-left: 20%
+}
+
+#top {
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    border-radius: 30px;
+}
+
+#footer {
+}
+
+#footer-fixed {
+    position: fixed;
+    bottom:0;
+    width:100%;
+}

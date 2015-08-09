@@ -1,0 +1,179 @@
+W3Schools PHP Quiz
+PHP QUIZ 	Points: 20 out of 25
+
+1. What does PHP stand for?
+
+You answered:
+PHP: Hypertext Preprocessor
+
+ Correct Answer!
+
+2. PHP server scripts are surrounded by delimiters, which?
+
+You answered:
+<?php...?>
+
+ Correct Answer!
+
+3. How do you write "Hello World" in PHP
+
+You answered:
+echo "Hello World";
+
+ Correct Answer!
+
+4. All variables in PHP start with which symbol?
+
+You answered:
+$
+
+ Correct Answer!
+
+5. What is the correct way to end a PHP statement?
+
+You answered:
+;
+
+ Correct Answer!
+
+6. The PHP syntax is most similar to:
+
+You answered:
+Perl and C
+
+ Correct Answer!
+
+7. How do you get information from a form that is submitted using the "get" method?
+
+You answered:
+$_GET[];
+
+ Correct Answer!
+
+8. When using the POST method, variables are displayed in the URL:
+
+You answered:
+False
+
+ Correct Answer!
+
+9. In PHP you can use both single quotes ( ' ' ) and double quotes ( " " ) for strings:
+
+You answered:
+True
+
+ Correct Answer!
+
+10. Include files must have the file extension ".inc"
+
+You answered:
+True
+
+ Wrong Answer!
+
+11. What is the correct way to include the file "time.inc" ?
+
+You answered:
+<?php include "time.inc"; ?>
+
+ Correct Answer!
+
+12. What is the correct way to create a function in PHP?
+
+You answered:
+function myFunction()
+
+ Correct Answer!
+
+13. What is the correct way to open the file "time.txt" as readable?
+
+You answered:
+open("time.txt","read");
+
+ Wrong Answer!
+
+14. PHP allows you to send emails directly from a script
+
+You answered:
+True
+
+ Correct Answer!
+
+15. Which superglobal variable holds information about headers, paths, and script locations?
+
+You answered:
+$_GLOBALS
+
+ Wrong Answer!
+
+16. What is the correct way to add 1 to the $count variable?
+
+You answered:
+$count++;
+
+ Correct Answer!
+
+17. What is a correct way to add a comment in PHP?
+
+You answered:
+/*...*/
+
+ Correct Answer!
+
+18. PHP can be run on Microsoft Windows IIS(Internet Information Server):
+
+You answered:
+True
+
+ Correct Answer!
+
+19. The die() and exit() functions do the exact same thing.
+
+You answered:
+False
+
+ Wrong Answer!
+
+20. Which one of these variables has an illegal name?
+
+You answered:
+$my-Var
+
+ Correct Answer!
+
+21. The setcookie() function must appear BEFORE the <html> tag.
+
+You answered:
+False
+
+ Wrong Answer!
+
+22. In PHP, the only way to output text is with echo.
+
+You answered:
+False
+
+ Correct Answer!
+
+23. How do you create an array in PHP?
+
+You answered:
+$cars = array("Volvo", "BMW", "Toyota");
+
+ Correct Answer!
+
+24. The if statement is used to execute some code only if a specified condition is true
+
+You answered:
+True
+
+ Correct Answer!
+
+25. Which operator is used to compare two values
+
+You answered:
+==
+
+ Correct Answer!
+
+By W3Schools 	Time spent: 7:21 
