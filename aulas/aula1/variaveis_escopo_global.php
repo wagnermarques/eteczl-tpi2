@@ -8,7 +8,7 @@
 http://www.w3schools.com/php/showphp.asp
 e http://www.w3schools.com/php/php_variables.asp
 </p>
-<a href="">Codigo desta pagina no github</a>
+<a href="https://github.com/wagnermarques/eteczl-tpi2/blob/master/aulas/aula1/variaveis_escopo_global.php">Codigo desta pagina no github</a>
 <p></p>
 <a href="http://pastebin.com/aVCdtf26">Codigo desta pagina no pastebin</a>
 <p></p>
