@@ -14,7 +14,7 @@
     <p></p>
     <p></p>
     <p></p>
-    <a href="">codigo no github</a>
+    <a href="https://github.com/wagnermarques/eteczl-tpi2/blob/master/aulas/aula1/casesensitive_palavraschaves_naosao.php">codigo no github</a>
     <br>
     <a href="http://pastebin.com/KVVn7T8T">codigo no pastebin</a>
     <p></p>
