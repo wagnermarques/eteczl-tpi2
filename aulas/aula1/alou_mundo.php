@@ -12,7 +12,7 @@
       deste exercicio no 
        github</a>
     <p></p>
-    <a href="http://pastebin.com/vXVYRi4v">codigo
+    <a href="http://pastebin.com/P7HxDQ70">codigo
       deste exercicio no 
        pastebin</a>
     <p></p>
