@@ -129,12 +129,5 @@ S&atilde;o 3 os escopos possiveis em PHP:
 
 </ul>
 
-        <a
-        href="link"
-        onclick="
-        window.open('link',
-                'exemplo','left=50,top=50,width=800,height=400,toolbar=0,resizable=1'); 
-        return false;" target="newWin">exemplo</a>
-
 </body>
 </html>
